@@ -1,11 +1,11 @@
 {
   "token": "NzAyNzkxNjk2MTk4NTMzMTQw.XqFjMw.cYIfQa4B_ndoewFS6DNNUzj9UAc",
   "prefix": "!",
-  "name": "DiscordTickets",
-  "guildID": "id",
-  "supportRole": "id",
-  "ticketsCat": "id",
-  "logChannel": "id",
+  "name": "SBS | Server Information",
+  "guildID": "700992786198953984",
+  "supportRole": "702819668045463552",
+  "ticketsCat": "701716093118447676",
+  "logChannel": "702819937269448744",
   "colour": "#009999",
   "playing": "with tickets (!help)",
   "activityType": "PLAYING",
@@ -15,6 +15,6 @@
   "cooldown": 3,
   "ticketImage": true,
   "tagHereOnly": false,
-  "ticketText": "Thank you for reaching out to our support team.\nA member of staff will come to assist you shortly. Please describe the issue in detail and explain what you have done to resolve the issue so far.\n\n*If you feel that the support you receive is inadequate, please feel free to submit a formal complaint to a senior member of staff.*",
+  "ticketText": "Thank you for reaching out to our support team. A staff member will come to assist you shortly. Please describe the issue in detail and explain what you have done to resolve the issue so far.\n\n*If you feel that the support you receive is inadequate, please feel free to submit a formal complaint to a senior member of staff.*",
   "debugLevel": 0
 }
